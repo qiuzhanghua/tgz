@@ -3,6 +3,6 @@
 ## Usage
 ```bash
 tgz -h
-tgz -x -f <filename> <dir>
-tgz -c -f <filename> <file|dir ...>
+tgz -x <tar.gz> <dir>
+tgz -c <tar.gz> <file|dir ...>
 ```
