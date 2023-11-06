@@ -14,6 +14,8 @@ github.com/qiuzhanghua/common v0.0.2 h1:sGQPlxCkrPte5+93QenA46b2xQL9b7fyoQ4VBmg4
 github.com/qiuzhanghua/common v0.0.2/go.mod h1:QBRWZXCliwCWhDJZ2yfkOgnHroRhbyL1GdoK80lRYSg=
 github.com/qiuzhanghua/common v0.0.3 h1:w6vsciKeQGAIFSVVGCYWJmjTfeFNl0Y1n/BqSev5BOo=
 github.com/qiuzhanghua/common v0.0.3/go.mod h1:QBRWZXCliwCWhDJZ2yfkOgnHroRhbyL1GdoK80lRYSg=
+github.com/qiuzhanghua/common v0.0.5 h1:NU/I6WF1oEQs3aWbpqA1+Pn2ehVqXwGT3KaneXH8A5c=
+github.com/qiuzhanghua/common v0.0.5/go.mod h1:QBRWZXCliwCWhDJZ2yfkOgnHroRhbyL1GdoK80lRYSg=
 github.com/rs/xid v1.5.0/go.mod h1:trrq9SKmegXys3aeAKXMUTdJsYXVwGY3RLcfgqegfbg=
 github.com/rs/zerolog v1.31.0 h1:FcTR3NnLWW+NnTwwhFWiJSZr4ECLpqCm6QsEnyvbV4A=
 github.com/rs/zerolog v1.31.0/go.mod h1:/7mN4D5sKwJLZQ2b/znpjC3/GQWY/xaDXUM0kKWRHss=

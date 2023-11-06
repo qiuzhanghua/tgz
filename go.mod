@@ -3,7 +3,7 @@ module tgz
 go 1.17
 
 require (
-	github.com/qiuzhanghua/common v0.0.3
+	github.com/qiuzhanghua/common v0.0.5
 	github.com/spf13/cobra v1.8.0
 )
 
