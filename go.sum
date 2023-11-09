@@ -10,12 +10,8 @@ github.com/mattn/go-isatty v0.0.19/go.mod h1:W+V8PltTTMOvKvAeJH7IuucS94S2C6jfK/D
 github.com/mattn/go-isatty v0.0.20 h1:xfD0iDuEKnDkl03q4limB+vH+GxLEtL/jb4xVJSWWEY=
 github.com/mattn/go-isatty v0.0.20/go.mod h1:W+V8PltTTMOvKvAeJH7IuucS94S2C6jfK/D7dTCTo3Y=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
-github.com/qiuzhanghua/common v0.0.2 h1:sGQPlxCkrPte5+93QenA46b2xQL9b7fyoQ4VBmg4t2c=
-github.com/qiuzhanghua/common v0.0.2/go.mod h1:QBRWZXCliwCWhDJZ2yfkOgnHroRhbyL1GdoK80lRYSg=
-github.com/qiuzhanghua/common v0.0.3 h1:w6vsciKeQGAIFSVVGCYWJmjTfeFNl0Y1n/BqSev5BOo=
-github.com/qiuzhanghua/common v0.0.3/go.mod h1:QBRWZXCliwCWhDJZ2yfkOgnHroRhbyL1GdoK80lRYSg=
-github.com/qiuzhanghua/common v0.0.5 h1:NU/I6WF1oEQs3aWbpqA1+Pn2ehVqXwGT3KaneXH8A5c=
-github.com/qiuzhanghua/common v0.0.5/go.mod h1:QBRWZXCliwCWhDJZ2yfkOgnHroRhbyL1GdoK80lRYSg=
+github.com/qiuzhanghua/common v0.0.7 h1:OQ063SJkQ9YcvdUZ9A0PievERQXDKUppSZF1jKCbtDU=
+github.com/qiuzhanghua/common v0.0.7/go.mod h1:QBRWZXCliwCWhDJZ2yfkOgnHroRhbyL1GdoK80lRYSg=
 github.com/rs/xid v1.5.0/go.mod h1:trrq9SKmegXys3aeAKXMUTdJsYXVwGY3RLcfgqegfbg=
 github.com/rs/zerolog v1.31.0 h1:FcTR3NnLWW+NnTwwhFWiJSZr4ECLpqCm6QsEnyvbV4A=
 github.com/rs/zerolog v1.31.0/go.mod h1:/7mN4D5sKwJLZQ2b/znpjC3/GQWY/xaDXUM0kKWRHss=

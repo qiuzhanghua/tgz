@@ -1,8 +1,14 @@
-# .tar.gz Compression and Extraction
+# .tar.gz Compression/Extraction/List
 
 ## Usage
 ```bash
 tgz -h
-tgz -x <tar.gz> <dir>
-tgz -c <tar.gz> <file|dir ...>
+# Extract tar.gz to dir
+tgz x <tar.gz> <dir>
+
+# Compress files or dirs to tgz
+tgz c <tar.gz> <file|dir ...>
+
+# List files in tgz
+tgz t <tar.gz>
 ```

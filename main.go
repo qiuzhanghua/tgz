@@ -8,7 +8,6 @@ func main() {
 		Short: "TGZ",
 		Long:  "Use tar and gzip to compress/extract files",
 	}
-	rootCmd.AddCommand(TgzXCmd, TgzCCmd)
+	rootCmd.AddCommand(TgzXCmd, TgzCCmd, TgzTCmd)
 	cobra.CheckErr(rootCmd.Execute())
-
 }
