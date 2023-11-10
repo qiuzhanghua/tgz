@@ -3,8 +3,8 @@ module tgz
 go 1.17
 
 require (
-	github.com/labstack/gommon v0.4.0
-	github.com/qiuzhanghua/common v0.2.0
+	github.com/labstack/gommon v0.4.1
+	github.com/qiuzhanghua/common v0.3.0
 	github.com/spf13/cobra v1.8.0
 )
 
